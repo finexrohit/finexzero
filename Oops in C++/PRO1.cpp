@@ -33,7 +33,7 @@ int main() {
 
     Employee Rohit ;
 
-    // harry.a = 134; --> This will throw error as a is private 
+    // Rohit.a = 134; --> This will throw error as a is private 
 
      Rohit.d = 34;
      Rohit.e = 3;
